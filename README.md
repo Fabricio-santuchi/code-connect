@@ -1,5 +1,7 @@
 # CodeConnect
 
+![Preview](./public/assets/preview.png)
+
 Este é um projeto chamado **CodeConnect**, criado com [React](https://reactjs.org/) e [Vite](https://vitejs.dev/), utilizando [Styled Components](https://styled-components.com/) para a estilização, Hooks do React e uma configuração de linting com ESLint.
 
 ## Funcionalidades
