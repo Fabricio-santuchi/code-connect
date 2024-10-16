@@ -13,7 +13,7 @@ const ContainerMain = styled.main`
   display: flex;
   gap: 16px;
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 1200px) {
     width: 80vw;
   }
 `;
