@@ -16,13 +16,13 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Fabricio-santuchi/code-connect.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd code-connect-main
    ```
 
 3. Instale as dependências:
