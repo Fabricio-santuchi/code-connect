@@ -4,7 +4,7 @@
 
 Veja o projeto em funcionamento: [CodeConnect na Vercel](https://code-connect-one.vercel.app/)
 
-Este é um projeto chamado **CodeConnect**, criado com [React](https://reactjs.org/) e [Vite](https://vitejs.dev/), utilizando [Styled Components](https://styled-components.com/) para a estilização, Hooks do React e uma configuração de linting com ESLint.
+Este é um projeto chamado **CodeConnect**, desenvolvido como parte do curso da **Alura**, com o objetivo de praticar e reforçar conceitos de [React](https://reactjs.org/), [React](https://reactjs.org/), [Styled Components](https://styled-components.com/) e **Hooks do React**. O projeto também utiliza uma configuração de linting com **ESLint** para manter boas práticas de código.
 
 ## Funcionalidades
 
@@ -82,10 +82,6 @@ Este é um projeto chamado **CodeConnect**, criado com [React](https://reactjs.o
   - eslint-plugin-react
   - eslint-plugin-react-hooks
   - eslint-plugin-react-refresh
-
-## Contribuição
-
-Contribuições são bem-vindas! Se encontrar algum bug ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
